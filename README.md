@@ -15,4 +15,4 @@ You can read more about Architectural Katas and learn how to participate in your
 
 # Like this repo?
 
-Check out my [website](https://www.darrylbayliss.net/) and [GitHub Profile](https://github.com/DarrylBayliss) for more topics.
+Check out my [Website](https://www.darrylbayliss.net/) and [GitHub Profile](https://github.com/DarrylBayliss) for more topics.
