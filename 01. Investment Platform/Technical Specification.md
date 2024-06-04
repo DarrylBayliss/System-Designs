@@ -1,6 +1,6 @@
 # Investment Platform Technical Specification
 
-This document provides a technical specification for an investment platform.
+This document provides a technical specification for an electric vehicle charging mapping platform.
 
 ![Investment Platform Architectural Diagram](Diagram.png)
 
