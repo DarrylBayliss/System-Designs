@@ -2,7 +2,7 @@
 
 A collection of System Design diagrams and technical specifications covering different business requirements. 
 
-The intention for this to be a showcase of software design skills practiced in an Architectural Kata format.
+This repo is a showcase of software design skills practiced in an Architectural Kata format.
 
 Architectural Katas are a way for software architects to practice their skills in a safe environment away from production.
 
@@ -15,4 +15,4 @@ You can read more about Architectural Katas and learn how to participate in your
 
 # Like this repo?
 
-Check out my [website](https://www.darrylbayliss.net/) and [GitHub Profile](https://github.com/DarrylBayliss) for more topics.
+Check out my [Website](https://www.darrylbayliss.net/) and [GitHub Profile](https://github.com/DarrylBayliss) for more topics.
