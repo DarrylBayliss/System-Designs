@@ -10,8 +10,8 @@ You can read more about Architectural Katas and learn how to participate in your
 
 ## Software Designs
 
-[01. Investment Platform](01. Investment Platform/Technical Specification.md)
-[02. Parking Ticket Issuing Platform](02. Investment Platform/Technical Specification.md)
+- [01. Investment Platform](01. Investment Platform/Technical Specification.md)
+- [02. Parking Ticket Issuing Platform](02. Investment Platform/Technical Specification.md)
 
 # Like this repo?
 
